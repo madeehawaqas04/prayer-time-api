@@ -10,10 +10,6 @@ Prayer Times API has many endpoints that return JSON including the Five Prayers 
 
 In this project I used the Timing By City endpoint to search for prayer times based on the city written.
 
-## Preview 📺
-
-![App Preview](./public/preview1.gif)
-
 ## Tools Used ⚙️
 
 - [React](https://reactjs.org/) - JS library
